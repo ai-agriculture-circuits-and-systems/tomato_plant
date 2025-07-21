@@ -1,0 +1,104 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 176,
+      "license": 1,
+      "file_name": "0175.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1545412471,
+      "image_id": 176,
+      "category_id": 0,
+      "bbox": [
+        1.0020000000000029,
+        1.0000000000000009,
+        501.00000000000006,
+        447.0
+      ],
+      "area": 223947.00000000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3139137471,
+      "image_id": 176,
+      "category_id": 0,
+      "bbox": [
+        1172.001,
+        1126.0,
+        838.998,
+        870.0
+      ],
+      "area": 729928.26,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8575638471,
+      "image_id": 176,
+      "category_id": 0,
+      "bbox": [
+        2511.0029999999997,
+        1656.0000000000002,
+        1021.998,
+        1018.0
+      ],
+      "area": 1040393.964,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6988042471,
+      "image_id": 176,
+      "category_id": 0,
+      "bbox": [
+        2354.001,
+        1578.0,
+        661.002,
+        709.0
+      ],
+      "area": 468650.41799999995,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7469667471,
+      "image_id": 176,
+      "category_id": 0,
+      "bbox": [
+        4098.003,
+        2791.0,
+        286.998,
+        252.0
+      ],
+      "area": 72323.496,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

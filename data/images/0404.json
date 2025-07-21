@@ -1,0 +1,104 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 405,
+      "license": 1,
+      "file_name": "0404.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5237050476,
+      "image_id": 405,
+      "category_id": 0,
+      "bbox": [
+        1551.9989999999998,
+        2875.0,
+        763.0020000000001,
+        667.0
+      ],
+      "area": 508922.33400000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8642545476,
+      "image_id": 405,
+      "category_id": 0,
+      "bbox": [
+        740.001,
+        2967.0,
+        787.0020000000001,
+        691.0
+      ],
+      "area": 543818.3820000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1718787476,
+      "image_id": 405,
+      "category_id": 0,
+      "bbox": [
+        677.001,
+        2707.9999999999995,
+        457.998,
+        413.0
+      ],
+      "area": 189153.174,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1911789476,
+      "image_id": 405,
+      "category_id": 0,
+      "bbox": [
+        4419.003,
+        1192.0,
+        415.99800000000005,
+        387.0
+      ],
+      "area": 160991.22600000002,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2631313476,
+      "image_id": 405,
+      "category_id": 0,
+      "bbox": [
+        4143.999,
+        441.99999999999994,
+        1111.998,
+        891.0
+      ],
+      "area": 990790.218,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

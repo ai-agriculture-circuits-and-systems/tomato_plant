@@ -1,0 +1,62 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 231,
+      "license": 1,
+      "file_name": "0230.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2333435472,
+      "image_id": 231,
+      "category_id": 0,
+      "bbox": [
+        2910.0,
+        1146.0000000000002,
+        729.0,
+        779.0
+      ],
+      "area": 567891.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7451735472,
+      "image_id": 231,
+      "category_id": 0,
+      "bbox": [
+        3548.001,
+        1049.9999999999998,
+        562.002,
+        571.0
+      ],
+      "area": 320903.142,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 208,
+      "license": 1,
+      "file_name": "0207.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2525216472,
+      "image_id": 208,
+      "category_id": 0,
+      "bbox": [
+        1011.0029999999999,
+        1878.0,
+        916.9979999999999,
+        917.0
+      ],
+      "area": 840887.166,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5350927472,
+      "image_id": 208,
+      "category_id": 0,
+      "bbox": [
+        2285.0009999999997,
+        1422.0000000000002,
+        1078.002,
+        1078.0
+      ],
+      "area": 1162086.156,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9560211472,
+      "image_id": 208,
+      "category_id": 0,
+      "bbox": [
+        4085.0009999999997,
+        891.0,
+        964.998,
+        965.0
+      ],
+      "area": 931223.0700000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1732039472,
+      "image_id": 208,
+      "category_id": 0,
+      "bbox": [
+        3259.002,
+        2796.0,
+        1086.0,
+        1086.0
+      ],
+      "area": 1179396.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2418429472,
+      "image_id": 208,
+      "category_id": 0,
+      "bbox": [
+        3612.9990000000003,
+        1904.0000000000002,
+        934.998,
+        935.0
+      ],
+      "area": 874223.13,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

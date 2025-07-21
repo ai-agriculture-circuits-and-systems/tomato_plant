@@ -1,0 +1,118 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 74,
+      "license": 1,
+      "file_name": "0073.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2611273467,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        515.0010000000001,
+        1358.0,
+        925.002,
+        946.0
+      ],
+      "area": 875051.892,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6934373467,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        290.001,
+        2379.0,
+        670.0020000000001,
+        700.0
+      ],
+      "area": 469001.4,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3499548467,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        955.998,
+        2632.0,
+        1062.0,
+        1055.0
+      ],
+      "area": 1120410.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8709594467,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        1199.001,
+        1916.9999999999998,
+        754.002,
+        795.0
+      ],
+      "area": 599431.59,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7836463467,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        2823.0,
+        850.0000000000001,
+        687.0,
+        637.0
+      ],
+      "area": 437619.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1227511467,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        3031.998,
+        1176.0,
+        1062.0,
+        999.0
+      ],
+      "area": 1060938.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

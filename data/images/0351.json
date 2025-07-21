@@ -1,0 +1,216 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 352,
+      "license": 1,
+      "file_name": "0351.JPG",
+      "height": 3024,
+      "width": 4032,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9037185475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        3825.999072,
+        1121.001336,
+        201.999168,
+        251.99899200000002
+      ],
+      "area": 50903.586720838655,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 4486440475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        961.000992,
+        1852.000416,
+        448.999488,
+        668.9995200000001
+      ],
+      "area": 300380.4419522458,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6151046475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        3195.001152,
+        1799.001792,
+        389.999232,
+        421.99920000000003
+      ],
+      "area": 164579.3639046144,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8891076475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        945.002016,
+        391.998096,
+        462.99859200000003,
+        491.00083200000006
+      ],
+      "area": 227332.69388682858,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5302105475,
+      "image_id": 352,
+      "category_id": 0,
+      "bbox": [
+        2656.999296,
+        756.0,
+        389.999232,
+        386.001504
+      ],
+      "area": 150540.29011084494,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1337478475,
+      "image_id": 352,
+      "category_id": 0,
+      "bbox": [
+        2661.001056,
+        484.000272,
+        309.000384,
+        302.000832
+      ],
+      "area": 93318.37305631948,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2986399475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        1392.001632,
+        141.00156,
+        448.999488,
+        405.999216
+      ],
+      "area": 182293.4401124014,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9367501475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        493.000704,
+        1651.0011839999997,
+        507.99974399999996,
+        444.999744
+      ],
+      "area": 226059.75603206552,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 4030671475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        401.99846400000007,
+        2064.99888,
+        602.001792,
+        628.000128
+      ],
+      "area": 378057.2024322294,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6936303475,
+      "image_id": 352,
+      "category_id": 0,
+      "bbox": [
+        3269.998368,
+        747.0005759999999,
+        546.001344,
+        561.0003839999999
+      ],
+      "area": 306306.96364851604,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1911165475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        317.999808,
+        305.00064000000003,
+        743.000832,
+        738.0011519999999
+      ],
+      "area": 548335.4699529584,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2008085475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        440.9979839999999,
+        971.000352,
+        802.001088,
+        799.0012800000001
+      ],
+      "area": 640799.8958733927,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6697357475,
+      "image_id": 352,
+      "category_id": 1,
+      "bbox": [
+        3103.000992,
+        2177.999712,
+        339.9984,
+        351.99964800000004
+      ],
+      "area": 119679.31712056321,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

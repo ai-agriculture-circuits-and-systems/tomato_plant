@@ -1,0 +1,202 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 318,
+      "license": 1,
+      "file_name": "0317.JPG",
+      "height": 3024,
+      "width": 4032,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7969270474,
+      "image_id": 318,
+      "category_id": 0,
+      "bbox": [
+        3090.9977280000003,
+        2877.998256,
+        298.001088,
+        142.000992
+      ],
+      "area": 42316.45011307929,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 4276825474,
+      "image_id": 318,
+      "category_id": 0,
+      "bbox": [
+        3705.998688,
+        1952.998992,
+        309.000384,
+        282.000096
+      ],
+      "area": 87138.13795203686,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7203803474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        2702.998368,
+        1213.99992,
+        200.999232,
+        244.000512
+      ],
+      "area": 49043.91551960678,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2518318474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        2878.9991999999997,
+        1602.9997199999998,
+        189.999936,
+        152.00136
+      ],
+      "area": 28880.24867191296,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5822040474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        603.999648,
+        378.00151199999993,
+        323.999424,
+        315.99892800000003
+      ],
+      "area": 102383.47065661747,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3541435474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        3093.9995519999998,
+        1213.000488,
+        355.001472,
+        359.000208
+      ],
+      "area": 127445.60228830617,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5701992474,
+      "image_id": 318,
+      "category_id": 0,
+      "bbox": [
+        3506.001408,
+        2441.0000160000004,
+        498.000384,
+        386.001504
+      ],
+      "area": 192228.89721657755,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2324365474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        2029.0011839999997,
+        2183.001408,
+        815.000256,
+        840.998592
+      ],
+      "area": 685414.0677756396,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 4646015474,
+      "image_id": 318,
+      "category_id": 0,
+      "bbox": [
+        527.000544,
+        606.998448,
+        201.999168,
+        218.00016
+      ],
+      "area": 44035.85094386688,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2346393474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        3647.998368,
+        841.000104,
+        302.000832,
+        312.0012
+      ],
+      "area": 94224.62198499839,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8281009474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        1174.999392,
+        713.999664,
+        458.998848,
+        462.998592
+      ],
+      "area": 212515.820353622,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7870326474,
+      "image_id": 318,
+      "category_id": 1,
+      "bbox": [
+        1697.998176,
+        577.00188,
+        288.001728,
+        283.99896
+      ],
+      "area": 81792.1912302029,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

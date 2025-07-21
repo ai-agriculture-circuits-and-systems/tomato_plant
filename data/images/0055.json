@@ -1,0 +1,146 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 56,
+      "license": 1,
+      "file_name": "0055.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6108330466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        1223.0009999999997,
+        1067.0000000000002,
+        658.002,
+        579.0
+      ],
+      "area": 380983.158,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1234262466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        2059.998,
+        1446.0,
+        408.00000000000006,
+        479.0
+      ],
+      "area": 195432.00000000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5819846466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        68.00099999999998,
+        533.0,
+        409.002,
+        417.0
+      ],
+      "area": 170553.834,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8950124466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        3022.998,
+        1396.0,
+        591.0,
+        546.0
+      ],
+      "area": 322686.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2175488466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        3738.999,
+        617.0,
+        370.998,
+        300.0
+      ],
+      "area": 111299.4,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5194307466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        4968.999,
+        533.0,
+        703.998,
+        675.0
+      ],
+      "area": 475198.65,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3847351466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        3392.9970000000003,
+        1243.0,
+        406.002,
+        481.0
+      ],
+      "area": 195286.962,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1490917466,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        3074.001,
+        1839.0,
+        544.002,
+        258.0
+      ],
+      "area": 140352.51599999997,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

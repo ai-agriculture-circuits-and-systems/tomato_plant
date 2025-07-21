@@ -1,0 +1,104 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 301,
+      "license": 1,
+      "file_name": "0300.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3189152474,
+      "image_id": 301,
+      "category_id": 0,
+      "bbox": [
+        4314.003000000001,
+        1721.0,
+        637.9979999999999,
+        546.0
+      ],
+      "area": 348346.90799999994,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5760188474,
+      "image_id": 301,
+      "category_id": 0,
+      "bbox": [
+        5155.9980000000005,
+        2058.0,
+        408.00000000000006,
+        400.0
+      ],
+      "area": 163200.00000000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7723537474,
+      "image_id": 301,
+      "category_id": 0,
+      "bbox": [
+        4935.003,
+        1867.0,
+        553.998,
+        466.0
+      ],
+      "area": 258163.06800000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6705524474,
+      "image_id": 301,
+      "category_id": 0,
+      "bbox": [
+        3038.997,
+        1142.0,
+        604.0020000000001,
+        512.0
+      ],
+      "area": 309249.02400000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7868112474,
+      "image_id": 301,
+      "category_id": 0,
+      "bbox": [
+        2405.997,
+        637.0,
+        487.002,
+        425.0
+      ],
+      "area": 206975.85,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

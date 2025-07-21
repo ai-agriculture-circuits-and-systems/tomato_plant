@@ -1,0 +1,300 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 501,
+      "license": 1,
+      "file_name": "0500.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9962093478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        3353.9970000000008,
+        2730.0000000000005,
+        565.002,
+        565.0
+      ],
+      "area": 319226.12999999995,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6909509478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        4075.9979999999996,
+        2981.9999999999995,
+        639.0,
+        639.0
+      ],
+      "area": 408321.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3852023478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        4618.998,
+        2774.0,
+        522.0,
+        522.0
+      ],
+      "area": 272484.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8929832478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        4946.001,
+        2100.0,
+        526.002,
+        526.0
+      ],
+      "area": 276677.05199999997,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3791633478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        2850.0,
+        3104.0,
+        552.0,
+        552.0
+      ],
+      "area": 304704.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7561936478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        3440.997,
+        3322.0,
+        457.002,
+        457.0
+      ],
+      "area": 208849.91400000002,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3279517478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        3781.0020000000004,
+        3170.0,
+        300.0,
+        300.0
+      ],
+      "area": 90000.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1366322478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        2876.0009999999997,
+        2509.0,
+        604.0020000000001,
+        604.0
+      ],
+      "area": 364817.20800000004,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7453556478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        2224.002,
+        2252.0,
+        330.0,
+        330.0
+      ],
+      "area": 108900.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8131086478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        1937.001,
+        2078.0,
+        274.002,
+        274.0
+      ],
+      "area": 75076.54800000001,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5489435478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        4854.0,
+        1643.0,
+        300.0,
+        300.0
+      ],
+      "area": 90000.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3529892478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        5302.002,
+        2913.0,
+        561.0,
+        561.0
+      ],
+      "area": 314721.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3069045478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        2079.999,
+        316.99999999999994,
+        457.002,
+        457.0
+      ],
+      "area": 208849.91400000002,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3601332478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        3659.001,
+        216.99999999999997,
+        517.9979999999999,
+        518.0
+      ],
+      "area": 268322.964,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9361400478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        1794.999,
+        262.0,
+        322.998,
+        350.0
+      ],
+      "area": 113049.3,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9095511478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        437.001,
+        1337.0,
+        394.998,
+        360.0
+      ],
+      "area": 142199.28,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6367153478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        1174.002,
+        2012.0,
+        417.00000000000006,
+        406.0
+      ],
+      "area": 169302.00000000003,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2673472478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        1314.0,
+        2278.0,
+        621.0,
+        511.0
+      ],
+      "area": 317331.0,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 1671927478,
+      "image_id": 501,
+      "category_id": 0,
+      "bbox": [
+        5005.0019999999995,
+        1248.0000000000002,
+        459.0,
+        502.0
+      ],
+      "area": 230418.0,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}

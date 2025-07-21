@@ -1,0 +1,104 @@
+{
+  "info": {
+    "description": "Tomato Plant Dataset - Images of tomato plants with bounding box annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "Tomato Plant Research",
+    "date_created": "2025/04/12",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 52,
+      "license": 1,
+      "file_name": "0051.JPG",
+      "height": 4000,
+      "width": 6000,
+      "date_captured": "2025-04-12"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5939440465,
+      "image_id": 52,
+      "category_id": 0,
+      "bbox": [
+        1071.999,
+        1595.9999999999998,
+        1078.998,
+        975.0
+      ],
+      "area": 1052023.05,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6921194465,
+      "image_id": 52,
+      "category_id": 0,
+      "bbox": [
+        2185.002,
+        1133.0,
+        845.9999999999999,
+        817.0
+      ],
+      "area": 691181.9999999999,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5925114465,
+      "image_id": 52,
+      "category_id": 0,
+      "bbox": [
+        4598.001,
+        207.99999999999997,
+        703.998,
+        542.0
+      ],
+      "area": 381566.916,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8473266465,
+      "image_id": 52,
+      "category_id": 0,
+      "bbox": [
+        5301.999,
+        1962.0,
+        436.998,
+        430.0
+      ],
+      "area": 187909.13999999998,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2962259465,
+      "image_id": 52,
+      "category_id": 0,
+      "bbox": [
+        4527.999,
+        964.0000000000001,
+        403.99800000000005,
+        381.0
+      ],
+      "area": 153923.238,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tomato_plant",
+      "supercategory": "plant"
+    },
+    {
+      "id": 1,
+      "name": "tomato_fruit",
+      "supercategory": "fruit"
+    }
+  ]
+}
